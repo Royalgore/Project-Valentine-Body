@@ -1,0 +1,9 @@
+# Compiler outputs #
+*.glb
+*.gltf
+*.fbx
+*.blend
+*.blend1
+*.blend2
+*.blend3
+*.blend4
